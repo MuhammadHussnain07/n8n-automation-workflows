@@ -7,7 +7,6 @@
 [![n8n](https://img.shields.io/badge/n8n-Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io)
 [![AI Powered](https://img.shields.io/badge/AI-Powered%20Workflows-blueviolet?style=for-the-badge)](https://n8n.io)
 [![Workflows](https://img.shields.io/badge/Workflows-18%2B%20Built-brightgreen?style=for-the-badge)](https://n8n.io)
-[![Flutter](https://img.shields.io/badge/Flutter-App%20Integration-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
 
 </div>
 
